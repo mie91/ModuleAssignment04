@@ -1,0 +1,22 @@
+body {
+    background-color: darkgrey;
+    text-align: center;
+    font-family: sans-serif;
+    color: darkred;
+}
+
+input {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 100px;
+    
+    background-color: darkred;
+    
+    color: white;
+    font-size: 2em;
+    
+    padding: 50px; 0px; 50px; 0px;
+    box-shadow: 6px 6px 6px 3px black ;
+    
+}
